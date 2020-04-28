@@ -12,7 +12,6 @@ Model komunikacji 2 ↔ 1
 	* przesłanie pojedynczej, parzystej liczby naturalnej L,
 	* przesłanie wartości liczbowych, będących „odpowiedziami”:
 	    * klient ma odgadnąć liczbę wylosowaną przez serwer;
-	    
     * serwera:
 	* wygenerowanie identyfikatora sesji,
 	* wyznaczenie liczby prób od podjęcia (liczba prób = (L1 + L2) / 2),
