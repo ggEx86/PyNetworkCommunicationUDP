@@ -1,4 +1,4 @@
-#Funkcjonalności projektu
+# Funkcjonalności projektu
 
 <img src="logo.png" width=256 height=256>
 
