@@ -1,5 +1,6 @@
 #Funkcjonalności projektu
-
+				![GitHub Logo](py.png)
+Format: ![Alt Text](url)
 Model komunikacji 2 ↔ 1
 - Protokół wartstwy transportowej: UDP.
 - Pola nagłówka protokołu tekstowego zadefiniowane jako klucz>wartość< (przykład: Operacja>podaj_liczbe<).
