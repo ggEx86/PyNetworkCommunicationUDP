@@ -5,8 +5,8 @@ Model komunikacji 2 ↔ 1
 - Pola nagłówka protokołu tekstowego zadefiniowane jako klucz>wartość< (przykład: Operacja>podaj_liczbe<).
 - Podstawowe pola nagłówka oraz odpowiadające im klucze: pole operacji – „Operacja”, pole odpowiedzi – „Odpowiedz”, pole identyfikatora sesji – „Identyfikator”, dodatkowe pola zdefiniowane przez programistę – zgodnie z wymaganiami.
 
-- Funkcje oprogramowania:
 
+- Funkcje oprogramowania:
     * klienta:
 	* uzyskanie identyfikatora sesji,
 	* przesłanie pojedynczej, parzystej liczby naturalnej L,
