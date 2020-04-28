@@ -4,6 +4,7 @@ Model komunikacji 2 ↔ 1
 • Protokół wartstwy transportowej: UDP.
 • Pola nagłówka protokołu tekstowego zadefiniowane jako klucz>wartość< (przykład: Operacja>podaj_liczbe<).
 • Podstawowe pola nagłówka oraz odpowiadające im klucze: pole operacji – „Operacja”, pole odpowiedzi – „Odpowiedz”, pole identyfikatora sesji – „Identyfikator”, dodatkowe pola zdefiniowane przez programistę – zgodnie z wymaganiami.
+
 • Funkcje oprogramowania:
     ▪ klienta:
 	○ uzyskanie identyfikatora sesji,
